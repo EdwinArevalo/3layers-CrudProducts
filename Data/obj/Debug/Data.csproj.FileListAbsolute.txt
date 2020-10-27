@@ -15,3 +15,11 @@ C:\Users\william\source\repos\Semana04\Data\obj\Debug\Data.csprojAssemblyReferen
 C:\Users\william\source\repos\Semana04\Data\obj\Debug\Data.csproj.CopyComplete
 C:\Users\william\source\repos\Semana04\Data\obj\Debug\Data.dll
 C:\Users\william\source\repos\Semana04\Data\obj\Debug\Data.pdb
+C:\Users\william\source\repos\Semana05-products\Data\bin\Debug\Data.dll
+C:\Users\william\source\repos\Semana05-products\Data\bin\Debug\Data.pdb
+C:\Users\william\source\repos\Semana05-products\Data\bin\Debug\Entity.dll
+C:\Users\william\source\repos\Semana05-products\Data\bin\Debug\Entity.pdb
+C:\Users\william\source\repos\Semana05-products\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\william\source\repos\Semana05-products\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\william\source\repos\Semana05-products\Data\obj\Debug\Data.dll
+C:\Users\william\source\repos\Semana05-products\Data\obj\Debug\Data.pdb

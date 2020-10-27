@@ -19,3 +19,13 @@ C:\Users\william\source\repos\Semana04\Business\obj\Debug\Business.csprojAssembl
 C:\Users\william\source\repos\Semana04\Business\obj\Debug\Business.csproj.CopyComplete
 C:\Users\william\source\repos\Semana04\Business\obj\Debug\Business.dll
 C:\Users\william\source\repos\Semana04\Business\obj\Debug\Business.pdb
+C:\Users\william\source\repos\Semana05-products\Business\bin\Debug\Business.dll
+C:\Users\william\source\repos\Semana05-products\Business\bin\Debug\Business.pdb
+C:\Users\william\source\repos\Semana05-products\Business\bin\Debug\Data.dll
+C:\Users\william\source\repos\Semana05-products\Business\bin\Debug\Entity.dll
+C:\Users\william\source\repos\Semana05-products\Business\bin\Debug\Data.pdb
+C:\Users\william\source\repos\Semana05-products\Business\bin\Debug\Entity.pdb
+C:\Users\william\source\repos\Semana05-products\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\william\source\repos\Semana05-products\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\william\source\repos\Semana05-products\Business\obj\Debug\Business.dll
+C:\Users\william\source\repos\Semana05-products\Business\obj\Debug\Business.pdb

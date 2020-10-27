@@ -9,3 +9,8 @@ C:\Users\william\source\repos\Semana04\Entity\bin\Debug\Entity.pdb
 C:\Users\william\source\repos\Semana04\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
 C:\Users\william\source\repos\Semana04\Entity\obj\Debug\Entity.dll
 C:\Users\william\source\repos\Semana04\Entity\obj\Debug\Entity.pdb
+C:\Users\william\source\repos\Semana05-products\Entity\bin\Debug\Entity.dll
+C:\Users\william\source\repos\Semana05-products\Entity\bin\Debug\Entity.pdb
+C:\Users\william\source\repos\Semana05-products\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\william\source\repos\Semana05-products\Entity\obj\Debug\Entity.dll
+C:\Users\william\source\repos\Semana05-products\Entity\obj\Debug\Entity.pdb

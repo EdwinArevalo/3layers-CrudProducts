@@ -71,10 +71,17 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="ManProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ManCategoria.xaml.cs">
       <DependentUpon>ManCategoria.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ManProducto.xaml.cs">
+      <DependentUpon>ManProducto.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>

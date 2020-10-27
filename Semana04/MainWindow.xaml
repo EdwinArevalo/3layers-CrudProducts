@@ -16,7 +16,7 @@
     <Grid>
         <StackPanel>
             <StackPanel>
-                <Label Content="LISTA DE CATEGORÍAS" />
+                <Label Content="LISTA DE PRODUCTOS" />
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <Button x:Name="btnConsultar" Click="BtnConsultar_Click" >Consultar</Button>
@@ -24,10 +24,10 @@
             </StackPanel>
 
             <StackPanel>
-                <DataGrid Height="500" x:Name="dgvCategoria" AutoGenerateColumns="True"
+                <DataGrid Height="500" x:Name="dgvProductos" AutoGenerateColumns="True"
                           GridLinesVisibility="Vertical" HeadersVisibility="All" 
                           Background="LightGray" RowBackground="LightYellow" AlternatingRowBackground="LightBlue" 
-                          BorderBrush="Gray" BorderThickness="5" SelectionChanged="DgvCategoria_SelectionChanged"  
+                          BorderBrush="Gray" BorderThickness="5" SelectionChanged="DgvProducto_SelectionChanged"  
                           ></DataGrid>
 
             </StackPanel>
