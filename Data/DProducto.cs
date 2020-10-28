@@ -79,7 +79,7 @@ namespace Data
 
             try
             {
-                commandText = "USP_UpdCategoria";
+                commandText = "USP_UdpProducto";
                 parameters = new SqlParameter[4];
                 parameters[0] = new SqlParameter("@idproducto", System.Data.SqlDbType.Int);
                 parameters[0].Value = producto.IdProducto;
